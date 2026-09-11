@@ -1,0 +1,15 @@
+{
+  "originHash" : "d68fa85d49301ed8d4365623e39d0f9bad970ca63af5b72ee29846d7a4941c04",
+  "pins" : [
+    {
+      "identity" : "groceryappsharedpm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/alex-hort/GroceryAppSharedPM.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "cffd208e15842378add672933e5c8b134c960947"
+      }
+    }
+  ],
+  "version" : 3
+}
