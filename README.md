@@ -290,39 +290,29 @@ DELETE /grocery-items/:id
 
 Protected endpoints require a valid JWT authentication token.
 
----
-
 # 📸 Screenshots
 
 ## Authentication
 
-<!-- Add your screenshots here -->
-
-| Login             | Register          |
-| ----------------- | ----------------- |
-| 📷 Add screenshot | 📷 Add screenshot |
+| Login | Register |
+|-------|----------|
+| ![Login](screenshots/login.png) | ![Register](screenshots/register.png) |
 
 ---
 
 ## Grocery Categories
 
-<!-- Add your screenshots here -->
-
-| Categories        | Add Category      |
-| ----------------- | ----------------- |
-| 📷 Add screenshot | 📷 Add screenshot |
+| Categories | Add Category |
+|------------|--------------|
+| ![Categories](screenshots/categories.png) | ![Add Category](screenshots/add-category.png) |
 
 ---
 
 ## Grocery Items
 
-<!-- Add your screenshots here -->
-
-| Grocery Detail    | Add Item          |
-| ----------------- | ----------------- |
-| 📷 Add screenshot | 📷 Add screenshot |
-
----
+| Grocery Detail / List | Add Item |
+|-----------------------|----------|
+| ![Categories Delete](screenshots/categories-delete.png) | ![Add Item](screenshots/add-item.png) |
 
 ## 🧪 API Testing
 
